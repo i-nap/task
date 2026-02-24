@@ -11,7 +11,7 @@ export default function Service() {
                         <p className="text-xl md:text-3xl text-gray-800  mb-8">
                             Experience our expert solutions tailored to enhance your business with top-tier design, development, and animation.
                         </p>
-                        <button className="bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium py-2.5 px-6 rounded-full transition-colors">
+                        <button className="bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium py-2.5 px-6 rounded-full transition-colors focus:outline-3 focus:outline-blue-600/30">
                             Services
                         </button>
                     </div>
