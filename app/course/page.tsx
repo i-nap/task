@@ -159,7 +159,8 @@ export default function CoursePage() {
     };
 
     return (
-        <main className="w-full flex min-h-screen flex-col bg-white p-10">
+
+        <main className="flex min-h-screen flex-col bg-white p-10 mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="w-full mb-12 flex flex-col">
                 <p className="text-[24px] text-[#414141]">Explore our classes and master trending skills!</p>
                 <h1 className="text-[32px] font-bold">
